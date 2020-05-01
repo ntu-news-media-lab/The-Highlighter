@@ -18,6 +18,7 @@ It allows users to **highlight**, **creatively decorate** and **share notable qu
 # The Highlighter Sharing Ecosystem 
 
 <img width="1280" alt="TheHighlighter_Comic" src="https://user-images.githubusercontent.com/58365404/80775768-2aa2ff00-8b93-11ea-8c74-a3400f0d6c28.png">
+
 As the users share more news that is relevant to their lives, it creates a cycle of sharing amongst their friends. With The Highlighter, young people can catch up with the news, and news outlets can catch up with technology to capture their youth readers.
 
 # Instructions

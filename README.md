@@ -13,6 +13,9 @@ To solve this, The Highlighter does two things:
 
 It allows users to **highlight**, **creatively decorate** and **share notable quotes** from news articles on their Instagram Stories. They can choose layouts, pictures, background colours and more to express their feelings and thoughts about the news.
 
+<img width="1280" alt="MockUp_Features" src="https://user-images.githubusercontent.com/58365404/80775687-f596ac80-8b92-11ea-8d6a-768b4d0a6bda.png">
+
+
 # The Highlighter Sharing Ecosystem 
 As the users share more news that is relevant to their lives, it creates a cycle of sharing amongst their friends. With The Highlighter, young people can catch up with the news, and news outlets can catch up with technology to capture their youth readers.
 
